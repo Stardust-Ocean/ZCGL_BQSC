@@ -1,0 +1,16 @@
+﻿CT~~CD,~CC^~CT~
+^XA~TA000~JSN^LT0^MNW^MTD^PON^PMN^LH0,0^JMA^PR4,4~SD15^JUS^LRN^CI0^XZ
+^XA
+^MMT
+^PW695
+^LL0160
+^LS0
+^FT67,53^A0N,28,28^FH\^FDmsg1^FS
+^FT34,116^A0N,23,24^FH\^FDmsg2^FS
+^FT192,143^BQN,2,2
+^FH\^FDLA,Part Number : msg3\0D\0AECU Manufacturing Date : msg4\0D\0ASoftware ID : msg5\0D\0AHardware ID : msg6\0D\0ACANDB ID : msg7\0D\0ASupplier information : msg8\0D\0ASYSTEM Manufacturing Date : msg9\0D\0AVehicle Name : msg10\0D\0AManufacturing location : msg11\0D\0AManufacturing line No. : msg12\0D\0ASerial Number : msg13^FS
+^FT411,53^A0N,28,28^FH\^FDmsg1^FS
+^FT378,116^A0N,23,24^FH\^FDmsg2^FS
+^FT536,143^BQN,2,2
+^FH\^FDLA,Part Number : msg3\0D\0AECU Manufacturing Date : msg4\0D\0ASoftware ID : msg5\0D\0AHardware ID : msg6\0D\0ACANDB ID : msg7\0D\0ASupplier information : msg8\0D\0ASYSTEM Manufacturing Date : msg9\0D\0AVehicle Name : msg10\0D\0AManufacturing location : msg11\0D\0AManufacturing line No. : msg12\0D\0ASerial Number : msg13^FS
+^PQ1,0,1,Y^XZ
